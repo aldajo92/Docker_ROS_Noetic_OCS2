@@ -182,4 +182,6 @@ catkin_ws/.catkin_tools/
 .vscode/*
 catkin_ws/.catkin_workspace
 
+ignore
+
 # End of https://www.toptal.com/developers/gitignore/api/node,ros
