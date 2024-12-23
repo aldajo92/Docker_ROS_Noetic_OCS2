@@ -1,33 +1,26 @@
-[submodule "catkin_ws/src/ocs2/pinocchio"]
-    path = catkin_ws/src/ocs2/pinocchio
-    url = https://github.com/leggedrobotics/pinocchio.git
-
-[submodule "catkin_ws/src/ocs2/hpp-fcl"]
-    path = catkin_ws/src/ocs2/hpp-fcl
-    url = https://github.com/leggedrobotics/hpp-fcl.git
-
-[submodule "catkin_ws/src/ocs2/ocs2_robotic_assets"]
-    path = catkin_ws/src/ocs2/ocs2_robotic_assets
-    url = https://github.com/leggedrobotics/ocs2_robotic_assets.git
-
-[submodule "catkin_ws/src/ocs2/raisimLib"]
-    path = catkin_ws/src/ocs2/raisimLib
-    url = https://github.com/raisimTech/raisimLib.git
+[submodule "catkin_ws/src/pinocchio"]
+	path = catkin_ws/src/pinocchio
+	url = https://github.com/leggedrobotics/pinocchio.git
+[submodule "catkin_ws/src/hpp-fcl"]
+	path = catkin_ws/src/hpp-fcl
+	url = https://github.com/leggedrobotics/hpp-fcl.git
+[submodule "catkin_ws/src/ocs2_robotic_assets"]
+	path = catkin_ws/src/ocs2_robotic_assets
+	url = https://github.com/leggedrobotics/ocs2_robotic_assets.git
+[submodule "catkin_ws/src/raisimLib"]
+	path = catkin_ws/src/raisimLib
+	url = https://github.com/raisimTech/raisimLib.git
     branch = v1.1.01
-
-[submodule "catkin_ws/src/ocs2/ocs2"]
-    path = catkin_ws/src/ocs2/ocs2
-    url = git@github.com:leggedrobotics/ocs2.git
-
-[submodule "catkin_ws/src/ocs2/grid_map"]
-    path = catkin_ws/src/ocs2/grid_map
-    url = https://github.com/ANYbotics/grid_map.git
-
-[submodule "catkin_ws/src/ocs2/elevation_mapping_cupy"]
-    path = catkin_ws/src/ocs2/elevation_mapping_cupy
-    url = https://github.com/leggedrobotics/elevation_mapping_cupy.git
-
-[submodule "catkin_ws/src/ocs2/ros_msft_onnx"]
-    path = catkin_ws/src/ocs2/ros_msft_onnx
-    url = https://github.com/ms-iot/ros_msft_onnx
-    branch = noetic-devel
+[submodule "catkin_ws/src/elevation_mapping_cupy"]
+	path = catkin_ws/src/elevation_mapping_cupy
+	url = https://github.com/leggedrobotics/elevation_mapping_cupy.git
+[submodule "catkin_ws/src/ros_msft_onnx"]
+	path = catkin_ws/src/ros_msft_onnx
+	url = https://github.com/ms-iot/ros_msft_onnx
+	branch = noetic-devel
+[submodule "catkin_ws/src/grid_map"]
+	path = catkin_ws/src/grid_map
+	url = https://github.com/ANYbotics/grid_map.git
+[submodule "catkin_ws/src/ocs2"]
+	path = catkin_ws/src/ocs2
+	url = git@github.com:leggedrobotics/ocs2.git
